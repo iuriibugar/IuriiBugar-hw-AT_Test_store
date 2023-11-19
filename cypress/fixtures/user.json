@@ -1,0 +1,16 @@
+{
+  "First_Name": "Iurii_Test",
+  "Last_Name": "Test_test",
+  "EMail": "qweqwe@gmail.com",
+  "phone": "0981115522",
+  "fax": "380742225544",
+  "companyName": "TOV 'IuriiBugar'",
+  "Address_1": "PrimaryAdress",
+  "Address_2": "notPrimaryAdress",
+  "City": "Kyibushev",
+  "Region_State": "3490",
+  "ZIP_Code": "535241",
+  "Country": "220",
+  "Login_name": "qweqweTest",
+  "Password": "123456789"
+}
